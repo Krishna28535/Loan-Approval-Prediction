@@ -20,6 +20,6 @@ The idea behind this ML project is to build an ML model and web application that
 - Loan_Amount_Term: The no. of days over which the loan will be paid
 - Credit_History: A record of a borrower's responsible repayment of debts (1- has all debts paid, 0- not paid)
 - Property_Area : The type of location where the applicant’s property lies (Rural, Semiurban, Urban)
-Target:
+* Target:
 
 - Loan_Status: Loan granted or not (Y, N)
